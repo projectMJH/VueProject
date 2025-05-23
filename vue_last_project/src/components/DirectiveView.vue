@@ -17,7 +17,7 @@
           msg1,
           msg2,
           msg3
-        }
+        } 
       }
     }
   </script>
